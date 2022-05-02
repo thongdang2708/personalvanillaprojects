@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #224941;
+    background-image: url(./bg.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    color: #fff;
+};
+
+
+
+
+
+
+
+

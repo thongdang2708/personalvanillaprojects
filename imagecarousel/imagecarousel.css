@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.carousel {
+    width: 500px;
+    height: 530px;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.image-container {
+    display: flex;
+    transform: translateX(0);
+    transition: transform 0.5s ease-in-out;
+}
+.image-container img {
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+}
+
+.buttons-container {
+    width: 100%;
+    border: 2px black solid;
+}
+
+.btn {
+    width: 49.5%;
+    background-color: #2a2a72;
+    color: #f5f5f5;
+    cursor: pointer;
+}

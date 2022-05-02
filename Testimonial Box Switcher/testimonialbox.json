@@ -1,0 +1,25 @@
+[{
+    "name" : "Miyah Miles",
+    "position" : "Marketing",
+    "photo" : "https://randomuser.me/api/portraits/men/32.jpg",
+    "text" : "I've worked with literally hundereds of HTML/CSS developers and I have to say the top spot goes to this guy. This guy is an amazing developer. He stresses on good, clean code, and pays heed to the details. I love developers who respect each and every aspect of a throughly thought out design and do their best to put it in code. He goes over and beyond and transforms ART into pixels - without a glitch, every time."
+},
+{
+    "name" : "David Beckham",
+    "position" : "Logistics and Supply Chain",
+    "photo" : "https://randomuser.me/api/portraits/men/33.jpg",
+    "text" : "I've worked with literally hundereds of HTML/CSS developers and I have to say the top spot goes to this guy. This guy is an amazing developer. He stresses on good, clean code, and pays heed to the details. I love developers who respect each and every aspect of a throughly thought out design and do their best to put it in code. He goes over and beyond and transforms ART into pixels - without a glitch, every time." 
+},
+{
+    "name" : "June Cha",
+    "position" : "HR",
+    "photo" : "https://randomuser.me/api/portraits/women/34.jpg",
+    "text" : "I've worked with literally hundereds of HTML/CSS developers and I have to say the top spot goes to this guy. This guy is an amazing developer. He stresses on good, clean code, and pays heed to the details. I love developers who respect each and every aspect of a throughly thought out design and do their best to put it in code. He goes over and beyond and transforms ART into pixels - without a glitch, every time." 
+},
+{
+    "name" : "Yin Li",
+    "position" : "Finance and Accounting",
+    "photo" : "https://randomuser.me/api/portraits/women/35.jpg",
+    "text" : "I've worked with literally hundereds of HTML/CSS developers and I have to say the top spot goes to this guy. This guy is an amazing developer. He stresses on good, clean code, and pays heed to the details. I love developers who respect each and every aspect of a throughly thought out design and do their best to put it in code. He goes over and beyond and transforms ART into pixels - without a glitch, every time." 
+}
+]

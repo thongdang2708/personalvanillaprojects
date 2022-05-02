@@ -1,0 +1,39 @@
+[{
+    "question" : "Which language runs in a web browser?",
+    "a" : "Java",
+    "b" : "C",
+    "c" : "Python",
+    "d" : "Javascript",
+    "correct" : "d"
+},
+{
+    "question" : "Which language runs in a server?",
+    "a" : "Java",
+    "b" : "C",
+    "c" : "Python",
+    "d" : "Javascript",
+    "correct" : "c"
+},
+{
+    "question" : "Which language runs hard?",
+    "a" : "Java",
+    "b" : "C",
+    "c" : "Python",
+    "d" : "Javascript",
+    "correct" : "b"
+},
+{
+    "question" : "Which language runs in a game?",
+    "a" : "Unity",
+    "b" : "C++",
+    "c" : "Ruby",
+    "correct" : "a"
+},
+{
+    "question" : "Which framework runs well in a Javascript?",
+    "a" : "Django",
+    "b" : "Reactjs",
+    "correct" : "b"
+}
+
+]
